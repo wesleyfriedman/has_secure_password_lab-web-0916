@@ -1,5 +1,5 @@
 # has_secure_password
-
+#important t-shirt business - let's do it
 ## Objectives
 
 We're going to make a Rails app that covers a simple authentication flow: users can create accounts, log in, and log out.
